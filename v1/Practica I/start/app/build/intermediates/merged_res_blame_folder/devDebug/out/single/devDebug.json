@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.example.makeitso.app-merged_res-82:/drawable_ic_delete_my_account.xml.flat",
+        "source": "com.example.makeitso.app-main-86:/drawable/ic_delete_my_account.xml"
+    },
+    {
+        "merged": "com.example.makeitso.app-merged_res-82:/drawable_ic_create_account.xml.flat",
+        "source": "com.example.makeitso.app-main-86:/drawable/ic_create_account.xml"
+    },
+    {
+        "merged": "com.example.makeitso.app-merged_res-82:/xml_remote_config_defaults.xml.flat",
+        "source": "com.example.makeitso.app-main-86:/xml/remote_config_defaults.xml"
+    },
+    {
+        "merged": "com.example.makeitso.app-merged_res-82:/drawable_ic_calendar.xml.flat",
+        "source": "com.example.makeitso.app-main-86:/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "com.example.makeitso.app-merged_res-82:/drawable_ic_check.xml.flat",
+        "source": "com.example.makeitso.app-main-86:/drawable/ic_check.xml"
+    },
+    {
+        "merged": "com.example.makeitso.app-merged_res-82:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.makeitso.app-main-86:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.makeitso.app-merged_res-82:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.makeitso.app-main-86:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.makeitso.app-merged_res-82:/drawable_ic_visibility_off.xml.flat",
+        "source": "com.example.makeitso.app-main-86:/drawable/ic_visibility_off.xml"
+    },
+    {
+        "merged": "com.example.makeitso.app-merged_res-82:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.makeitso.app-main-86:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.makeitso.app-merged_res-82:/drawable_ic_settings.xml.flat",
+        "source": "com.example.makeitso.app-main-86:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.example.makeitso.app-merged_res-82:/drawable_ic_exit.xml.flat",
+        "source": "com.example.makeitso.app-main-86:/drawable/ic_exit.xml"
+    },
+    {
+        "merged": "com.example.makeitso.app-merged_res-82:/drawable_ic_stats.xml.flat",
+        "source": "com.example.makeitso.app-main-86:/drawable/ic_stats.xml"
+    },
+    {
+        "merged": "com.example.makeitso.app-merged_res-82:/drawable_ic_visibility_on.xml.flat",
+        "source": "com.example.makeitso.app-main-86:/drawable/ic_visibility_on.xml"
+    },
+    {
+        "merged": "com.example.makeitso.app-merged_res-82:/drawable_ic_clock.xml.flat",
+        "source": "com.example.makeitso.app-main-86:/drawable/ic_clock.xml"
+    },
+    {
+        "merged": "com.example.makeitso.app-merged_res-82:/drawable_ic_flag.xml.flat",
+        "source": "com.example.makeitso.app-main-86:/drawable/ic_flag.xml"
+    },
+    {
+        "merged": "com.example.makeitso.app-merged_res-82:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.makeitso.app-main-86:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.makeitso.app-merged_res-82:/drawable_ic_sign_in.xml.flat",
+        "source": "com.example.makeitso.app-main-86:/drawable/ic_sign_in.xml"
+    },
+    {
+        "merged": "com.example.makeitso.app-merged_res-82:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.makeitso.app-main-86:/mipmap-hdpi/ic_launcher.png"
+    }
+]

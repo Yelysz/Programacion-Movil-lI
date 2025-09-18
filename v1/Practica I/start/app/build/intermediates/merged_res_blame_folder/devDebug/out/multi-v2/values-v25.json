@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.makeitso.app-mergeDevDebugResources-80:/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Anyelys Torres\\.gradle\\caches\\8.14.3\\transforms\\44352d5d7e2ad9cd40e190432857a06b\\transformed\\appcompat-1.6.1\\res\\values-v25\\values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}

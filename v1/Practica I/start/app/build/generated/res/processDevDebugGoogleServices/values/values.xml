@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">472984021952</string>
+    <string name="google_api_key" translatable="false">AIzaSyD349KHwPQ17P3Ag_PZhf1GDJ_BeL_-rTI</string>
+    <string name="google_app_id" translatable="false">1:472984021952:android:9f00f7db626f58bb21f625</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD349KHwPQ17P3Ag_PZhf1GDJ_BeL_-rTI</string>
+    <string name="google_storage_bucket" translatable="false">compose-firebase-codelab-20af1.firebasestorage.app</string>
+    <string name="project_id" translatable="false">compose-firebase-codelab-20af1</string>
+</resources>
